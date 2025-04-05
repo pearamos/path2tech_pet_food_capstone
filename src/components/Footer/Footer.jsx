@@ -9,6 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
             <p>Commited to your pet's health through and through.</p>
+            <p>Now sourcing vendors for cat friendly meal prep, stay tuned!</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
